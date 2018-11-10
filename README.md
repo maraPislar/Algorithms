@@ -1,6 +1,6 @@
 # Basics
 You can find here basic algorithms in C++ that I've worked on during high school.
-// To implement these, I use Code::Blocks.
+To implement these, I use Code::Blocks.
 
 # Backtracking
 
