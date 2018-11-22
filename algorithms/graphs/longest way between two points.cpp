@@ -17,7 +17,7 @@ void read()
     }
 }
 
-void init(int k)
+void first(int k)
 {
     s[k] = 0;
 }
@@ -66,7 +66,7 @@ void out(int k)
 
 void backtracking(int k)
 {
-    init(k);
+    first(k);
     while(next(k))
         if(valid(k))
         if(is_solution(k))
