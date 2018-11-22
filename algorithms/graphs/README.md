@@ -1,4 +1,4 @@
-# "The longest way between c and b" AND "The shortest way between c and b"
+# "The longest way between two points" AND "The shortest way between two points"
 
 This is a problem which follows the steps of a backtracking algorithm (explained), resulting the longest(first prob)/shortest(second prob) way between point c and b noted in a matrix. 
 - n  - is a number that you have to read randomly to represent the length of the road. Choose a number around the number of two times of the number of the accessible roads
