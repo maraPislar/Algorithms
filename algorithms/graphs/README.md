@@ -6,4 +6,7 @@ This is a problem which follows the steps of a backtracking algorithm (explained
 - m - the dimension of the matrix a[][]
 - c and b - the extremities
 
+# Chain
+Backtracking method is used (see the backtracking notes). It generates all the chains in an oriented graph (one way between two point).
+
 
