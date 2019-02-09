@@ -17,3 +17,5 @@ This method is recursive and it is based on 5 functions:
 # Lists
 
 # Others
+
+Here I'll put some of my solutions from www.pbinfo.ro. The numebr of the problem will pe specified in the title.
